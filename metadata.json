@@ -1,0 +1,6 @@
+{
+  "name": "PyLab 學院 — Python 互動式程式設計教室",
+  "description": "從零開始掌握 Python 程式設計：12 個結構化核心單元、互動式語法視覺化模擬與即時瀏覽器程式碼執行環境。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
